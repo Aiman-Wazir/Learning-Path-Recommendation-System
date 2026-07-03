@@ -143,7 +143,8 @@ The recommendation model was evaluated using:
 The results indicate that the model effectively predicts intern preferences and provides personalized learning recommendations.
 
 ---
-
+NOTE:-
+THE MODEL WAS LARGE SO IT CANNOT BE UPLOADED HERE>YOU CAN SIMPLY RUN THE NOTEBOOK.
 ## Installation
 
 Clone the repository
